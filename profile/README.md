@@ -1,7 +1,7 @@
 # Pixel Pioneers
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Pixel Pioneers Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/d9/83/70/d983707124eff1a4e4e4f22a847b2685.jpg" alt="Pixel Pioneers Banner" width="100%">
 </p>
 
 <h3 align="center">Think. Code. Create. Repeat.</h3>
