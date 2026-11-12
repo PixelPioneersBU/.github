@@ -68,9 +68,9 @@ We are a team of four student developers working together to learn, build, and i
 | Member | Role |
 |---|---|
 | Ayush Dey | Organization Owner |
-| Member 2 | Developer |
-| Member 3 | Developer |
-| Member 4 | Developer |
+| Neeraj Kumar Sharma | Developer |
+| Aditya Awasthi | Developer |
+| Daksh Chouhan | Developer |
 
 *Replace the placeholder names and roles with the actual team details.*
 
