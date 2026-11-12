@@ -72,7 +72,6 @@ We are a team of four student developers working together to learn, build, and i
 | Aditya Awasthi | Developer |
 | Daksh Chouhan | Developer |
 
-*Replace the placeholder names and roles with the actual team details.*
 
 ---
 
